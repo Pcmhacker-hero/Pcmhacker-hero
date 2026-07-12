@@ -5,7 +5,7 @@
 
   <!-- Animated Typing -->
   <a href="https://github.com/Pcmhacker-hero">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%8F%86+Top+Contributor+in+GSSoC+2026+%7C+43%2C000%2B+devs;%F0%9F%92%BB+Building+AI-Powered+Platforms+%26+Full-Stack+Apps;%F0%9F%8E%93+B.Tech+CSE+%40+IIIT+Dharwad" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%8F%86+Top+Contributor+in+GSSoC+2026;%F0%9F%92%BB+Building+AI-Powered+Platforms+%26+Full-Stack+Apps;%F0%9F%8E%93+B.Tech+CSE+%40+IIIT+Dharwad" alt="Typing SVG" />
   </a>
 
   <!-- Profile Views Counter -->
