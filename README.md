@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=220&section=header&text=Prakash%20Chand%20Meena&fontSize=50&fontColor=58a6ff&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Open%20Source%20Champion&descSize=16&descAlignY=55&descColor=8b949e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=220&section=header&text=Prakash%20Meena&fontSize=50&fontColor=58a6ff&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Open%20Source%20Champion&descSize=16&descAlignY=55&descColor=8b949e" />
 
   <!-- Animated Typing -->
   <a href="https://github.com/Pcmhacker-hero">
