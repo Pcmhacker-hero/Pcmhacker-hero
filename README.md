@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=220&section=header&text=Prakash%20Meena&fontSize=50&fontColor=58a6ff&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Open%20Source%20Champion&descSize=16&descAlignY=55&descColor=8b949e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=220&section=header&text=Prakash%20Chand%20Meena&fontSize=50&fontColor=58a6ff&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Open%20Source%20Champion&descSize=16&descAlignY=55&descColor=8b949e" />
 
   <!-- Animated Typing -->
   <a href="https://github.com/Pcmhacker-hero">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8F%86+Top+Contributor+in+GSSoC+2026+%7C+43%2C000%2B+devs;%F0%9F%92%BB+Building+AI-Powered+Platforms+%26+Full-Stack+Apps;%F0%9F%8E%93+B.Tech+CSE+%40+IIIT+Dharwad" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%8F%86+Top+Contributor+in+GSSoC+2026+%7C+43%2C000%2B+devs;%F0%9F%92%BB+Building+AI-Powered+Platforms+%26+Full-Stack+Apps;%F0%9F%8E%93+B.Tech+CSE+%40+IIIT+Dharwad" alt="Typing SVG" />
   </a>
 
   <!-- Profile Views Counter -->
@@ -24,7 +24,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```yaml
-name: Prakash Meena
+name: Prakash Chand Meena
 location: Jaipur, Rajasthan, India
 education: B.Tech in CSE @ IIIT Dharwad
 
@@ -100,14 +100,6 @@ fun_fact: "I turn ☕ into <code/> and 💡 into 🚀"
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pcmhacker-hero&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</div>
-
-<br/>
 
 ## 📊 GitHub Stats
 
