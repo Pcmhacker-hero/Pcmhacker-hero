@@ -24,7 +24,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```yaml
-name: Prakash Chand Meena
+name: Prakash Meena
 location: Jaipur, Rajasthan, India
 education: B.Tech in CSE @ IIIT Dharwad
 
