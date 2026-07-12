@@ -89,22 +89,14 @@ fun_fact: "I turn ☕ into <code/> and 💡 into 🚀"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<a href="https://github.com/Pcmhacker-hero">
-  <img src="https://img.shields.io/badge/🤖_CareerPilot_AI-AI_Resume_Analyzer_with_Claude_3.7_Sonnet,_ATS_Scoring_&_Skill_Gap_Analysis-58a6ff?style=for-the-badge&labelColor=0d1117" />
-</a>
-<br/><br/>
-<a href="https://github.com/Pcmhacker-hero">
-  <img src="https://img.shields.io/badge/⚡_AI_SaaS_Backend_Generator-Generates_REST_APIs_using_Gemini_AI_|_Deployed_on_AWS_EC2-238636?style=for-the-badge&labelColor=0d1117" />
-</a>
-<br/><br/>
-<a href="https://github.com/Pcmhacker-hero">
-  <img src="https://img.shields.io/badge/📝_Lumina_Notes-AI_Note_Taking_with_Firebase_Sync_&_Gemini_AI-e3b341?style=for-the-badge&labelColor=0d1117" />
-</a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pcmhacker-hero/Pcmhacker-hero/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pcmhacker-hero/Pcmhacker-hero/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Pcmhacker-hero/Pcmhacker-hero/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -127,25 +119,6 @@ fun_fact: "I turn ☕ into <code/> and 💡 into 🚀"
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pcmhacker-hero&theme=github-compact&hide_border=true&area=true&area_color=58a6ff&line=58a6ff&point=ffffff&color=8b949e&bg_color=0d1117" alt="Activity Graph" width="98%" />
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ⚡ Competitive Programming & Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com/Pcmhacker-hero">
-    <img src="https://img.shields.io/badge/LeetCode-Rating_1700+-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <img src="https://img.shields.io/badge/CodeChef-3_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSSoC_2026-Top_Contributor-238636?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Merged_PRs-647+-58a6ff?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Pcmhacker-hero?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
