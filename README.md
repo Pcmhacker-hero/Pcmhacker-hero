@@ -5,7 +5,7 @@
 
   <!-- Animated Typing -->
   <a href="https://github.com/Pcmhacker-hero">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8F%86+%231+Globally+in+GSSoC+2026+%7C+43%2C000%2B+devs;%F0%9F%92%BB+Building+AI-Powered+Platforms+%26+Full-Stack+Apps;%F0%9F%8E%93+B.Tech+CSE+%40+IIIT+Dharwad" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8F%86+Top+Contributor+in+GSSoC+2026+%7C+43%2C000%2B+devs;%F0%9F%92%BB+Building+AI-Powered+Platforms+%26+Full-Stack+Apps;%F0%9F%8E%93+B.Tech+CSE+%40+IIIT+Dharwad" alt="Typing SVG" />
   </a>
 
   <!-- Profile Views Counter -->
@@ -34,7 +34,7 @@ current_focus:
   - Contributing to open source
 
 achievements:
-  - "🥇 Ranked #1 globally among 43,000+ contributors in GSSoC 2026"
+  - "🥇 Top Contributor among 43,000+ contributors in GSSoC 2026"
   - "📝 647+ merged PRs in GSSoC"
   - "🏅 Google Student Ambassador"
   - "💻 LeetCode Rating: 1700+ | CodeChef: 3-Star"
@@ -131,17 +131,22 @@ fun_fact: "I turn ☕ into <code/> and 💡 into 🚀"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Snake
+## ⚡ Competitive Programming & Coding Profiles
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pcmhacker-hero/Pcmhacker-hero/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pcmhacker-hero/Pcmhacker-hero/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Pcmhacker-hero/Pcmhacker-hero/output/github-snake.svg" />
-  </picture>
+  <a href="https://leetcode.com/Pcmhacker-hero">
+    <img src="https://img.shields.io/badge/LeetCode-Rating_1700+-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <img src="https://img.shields.io/badge/CodeChef-3_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSSoC_2026-Top_Contributor-238636?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Merged_PRs-647+-58a6ff?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-> 💡 *To enable the snake animation, add a GitHub Actions workflow to your `Pcmhacker-hero` repo. See [snk](https://github.com/Platane/snk) for setup instructions.*
+<br/>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Pcmhacker-hero?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -165,7 +170,7 @@ fun_fact: "I turn ☕ into <code/> and 💡 into 🚀"
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=When%20something%20is%20important%20enough%2C%20you%20do%20it%20even%20if%20the%20odds%20are%20not%20in%20your%20favor.&author=Elon%20Musk" alt="Dev Quote" />
 </div>
 
 <br/>
